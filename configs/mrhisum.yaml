@@ -1,0 +1,21 @@
+# Data settings
+batch_size: 16
+
+# Model settings
+visual_dim: 1024
+text_dim: 768
+audio_dim: 768
+input_dim: 128
+hidden_dim: 192
+num_model_layers: 2
+num_mst_layers: 2
+num_cmf_layers: 2
+num_heads: 4
+dropout: 0.1
+window_size: [5, 15, 45, 0]
+
+# Training settings
+learning_rate: 1e-3
+weight_decay: 1e-4
+optimizer: 'adamw'
+scheduler: 'cosine'
