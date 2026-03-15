@@ -177,7 +177,6 @@ Before running training, please make sure that the `data_dir` path in the corres
 }
 ```
 
-
 ## ⚖️ License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
