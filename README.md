@@ -7,7 +7,7 @@
   <img src='https://img.shields.io/badge/Arxiv-2603.01169-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
   <a href='https://arxiv.org/pdf/2603.01169'>
   <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'></a>
-  <a href='https://arxiv.org/abs/2603.01169'>
+  <a href='https://smkim37.github.io/TripleSumm-page/'>
   <img src='https://img.shields.io/badge/Project-Page-orange?style=flat&logo=Google%20chrome&logoColor=orange'></a>
 </p>
 
