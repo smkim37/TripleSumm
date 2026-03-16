@@ -98,7 +98,7 @@ class Solver:
             h5_file = h5py.File(attn_weights_path, 'w')
 
         with torch.no_grad():
-            for batch in loader:
+            for batch in tqdm(loader, desc=f'Evaluating {split} set', leave=False):
                 video_ids = batch['video_id']
                 
                 visual = batch['visual_feat'].to(self.cfg.device, non_blocking=True)
