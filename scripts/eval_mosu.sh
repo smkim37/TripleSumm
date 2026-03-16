@@ -6,5 +6,5 @@ python main.py \
     --mode test \
     --dataset mosu \
     --model triplesumm \
-    --data_dir /data/dataset/VideoSummarization \
+    --data_dir ./data \
     --model_ckpt checkpoints/best_model_ckpt_mosu.pth

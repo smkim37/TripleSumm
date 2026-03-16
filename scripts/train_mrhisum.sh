@@ -6,4 +6,4 @@ python main.py \
     --mode train \
     --dataset mrhisum \
     --model triplesumm \
-    --data_dir /data/dataset/VideoSummarization
+    --data_dir ./data

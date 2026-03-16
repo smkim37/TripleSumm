@@ -6,4 +6,4 @@ python main.py \
     --mode train \
     --dataset mosu \
     --model triplesumm \
-    --data_dir /data/dataset/VideoSummarization
+    --data_dir ./data

@@ -6,5 +6,5 @@ python main.py \
     --mode test \
     --dataset mrhisum \
     --model triplesumm \
-    --data_dir /data/dataset/VideoSummarization \
+    --data_dir ./data \
     --model_ckpt checkpoints/best_model_ckpt_mrhisum.pth
