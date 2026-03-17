@@ -16,7 +16,10 @@ build/
 dist/
 *.egg-info/
 data/*
-!data/.gitkeep
+!data/mosu/
+!data/mrhisum/
+data/mosu/*
+data/mrhisum/*
 !data/mosu/.gitkeep
 !data/mrhisum/.gitkeep
 checkpoints/*
